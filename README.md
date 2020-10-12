@@ -1,1 +1,5 @@
-This is a starter template for [Learn Next.js](https://nextjs.org/learn).
+---
+The project was created for the purpose of teaching the framework Next.js
+---
+This project was deployed on the Versel platform
+Click [open](https://nextjs-blog-k7iszemsq.vercel.app/) to view how it works!
